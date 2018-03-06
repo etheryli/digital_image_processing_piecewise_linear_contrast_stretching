@@ -1,0 +1,1 @@
+# digital_image_processing_piecewise_linear_contrast_stretching
